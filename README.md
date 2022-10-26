@@ -1,3 +1,6 @@
-# my-first-page
-PHP page with contact form
-http://mojastranka.cloud/
+# This is my first web page 
+
+Web page contains lot of CSS effects and PHP contact form
+
+You can see it: http://mojastranka.cloud/
+
